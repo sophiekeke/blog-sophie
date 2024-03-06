@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statistics Study
-permalink: /content/Statistics-Study/
+permalink: /content/Statistics-Study
 ---
 Title: Statistic Study </br>
 Date: 2024-03-05 12:03AM </br>
